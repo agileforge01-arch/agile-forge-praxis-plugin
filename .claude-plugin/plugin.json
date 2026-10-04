@@ -1,0 +1,14 @@
+{
+  "name": "agile-forge-praxis",
+  "displayName": "Agile Forge Praxis",
+  "description": "Zwei Rechenskills für Projekt- und Servicearbeit: Flow Efficiency aus Durchlauf- und Bearbeitungszeit und die laufenden Kosten in einem Business Case. Deutsch und Englisch, jede Rechnung mit Formel nachvollziehbar.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Agile Forge",
+    "url": "https://agile-forge.com",
+    "email": "info@agile-forge.com"
+  },
+  "homepage": "https://praxis.agile-forge.com",
+  "license": "MIT",
+  "keywords": ["projektmanagement", "flow-efficiency", "business-case", "itsm", "devops", "lean"]
+}
